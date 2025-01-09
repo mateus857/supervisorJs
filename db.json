@@ -1,0 +1,57 @@
+{
+  "pdvs": [
+    {
+      "id": 1,
+      "descricao": "Pdv 001",
+      "empresa" : "001",
+      "perfilpdv" : {
+         "id": 1,
+         "descricao" : "Descrição do perfil 1",
+         "confPerfil" : 1
+      }
+    },
+    {
+      "id": 2,
+      "descricao": "Pdv 002",
+      "empresa" : "001",
+      "perfilpdv" : {
+         "id": 1,
+         "descricao" : "Descrição do perfil 1",
+         "confPerfil" : 1
+      }
+    },
+    {
+      "id": 3,
+      "descricao": "Pdv 003",
+      "empresa" : "001",
+      "perfilpdv" : {
+         "id": 1,
+         "descricao" : "Descrição do perfil 1",
+         "confPerfil" : 1
+      }
+    }
+  ],
+
+  "perfilpdv" : [
+    {
+         "id": 1,
+         "descricao" : "Descrição do perfil 1",
+         "confPerfil" : 1
+      }
+   ],
+
+   "confperfil" : [
+        {
+            "id": 1,
+            "property" : "Scanner",
+            "value" : "Serial"
+        },
+        {
+            "id": 2,
+            "property" : "Impressora",
+            "value" : "EPSON"
+        }
+   ]
+}
+
+
